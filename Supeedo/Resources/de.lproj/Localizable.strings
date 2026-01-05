@@ -1,0 +1,53 @@
+/* German Localization - Supeedo */
+
+// App
+"app.title" = "Supeedo";
+"app.subtitle" = "Screenshot-Intelligenz";
+"app.about" = "Über Supeedo";
+
+// Categories
+"category.receiptInvoice" = "Belege & Rechnungen";
+"category.eventAppointment" = "Termine & Veranstaltungen";
+"category.todoNote" = "Aufgaben & Notizen";
+"category.designInspo" = "Design-Inspiration";
+"category.documentResearch" = "Dokumente & Recherche";
+"category.chatCommunication" = "Chats & Nachrichten";
+"category.sensitivePrivate" = "Sensibel & Privat";
+"category.other" = "Sonstiges";
+"category.all" = "Alle Kategorien";
+
+// Actions
+"action.createReminder" = "Erinnerung erstellen";
+"action.createEvent" = "Termin erstellen";
+"action.exportText" = "Text exportieren";
+"action.archive" = "Archivieren";
+"action.deepAnalyze" = "Tiefenanalyse (Cloud)";
+"action.quickAnalyze" = "Schnellanalyse";
+
+// Settings
+"settings.title" = "Einstellungen";
+"settings.watchedFolder" = "Überwachter Ordner";
+"settings.selectFolder" = "Ordner auswählen";
+"settings.noFolderSelected" = "Kein Ordner ausgewählt";
+"settings.cloudEnabled" = "Cloud-Analyse aktivieren";
+"settings.cloudDescription" = "Die Cloud-Analyse nutzt Claude AI für ein besseres Verständnis. Deine Screenshots werden an die Server von Anthropic gesendet.";
+"settings.apiKey" = "API-Schlüssel";
+"settings.general" = "Allgemein";
+"settings.cloud" = "Cloud";
+
+// Dashboard
+"dashboard.title" = "Dashboard";
+"dashboard.empty" = "Noch keine Screenshots";
+"dashboard.emptyHint" = "Wähle einen Ordner zum Überwachen in den Einstellungen";
+"dashboard.searchPlaceholder" = "Screenshots durchsuchen...";
+"dashboard.screenshotCount" = "%d Screenshots";
+
+// Digest
+"digest.subject" = "Deine wöchentliche Screenshot-Zusammenfassung";
+"digest.summaryLine" = "Du hast diese Woche %d Screenshots aufgenommen.";
+"digest.openApp" = "Supeedo öffnen";
+
+// Errors
+"error.permissionDenied" = "Zugriff verweigert";
+"error.folderNotAccessible" = "Ordner nicht zugänglich";
+"error.analysisFailed" = "Analyse fehlgeschlagen";

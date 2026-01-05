@@ -1,0 +1,53 @@
+/* English Localization - Supeedo */
+
+// App
+"app.title" = "Supeedo";
+"app.subtitle" = "Screenshot Intelligence";
+"app.about" = "About Supeedo";
+
+// Categories
+"category.receiptInvoice" = "Receipts & Invoices";
+"category.eventAppointment" = "Events & Appointments";
+"category.todoNote" = "Tasks & Notes";
+"category.designInspo" = "Design Inspiration";
+"category.documentResearch" = "Documents & Research";
+"category.chatCommunication" = "Chats & Messages";
+"category.sensitivePrivate" = "Sensitive & Private";
+"category.other" = "Other";
+"category.all" = "All Categories";
+
+// Actions
+"action.createReminder" = "Create Reminder";
+"action.createEvent" = "Create Event";
+"action.exportText" = "Export Text";
+"action.archive" = "Archive";
+"action.deepAnalyze" = "Deep Analyze (Cloud)";
+"action.quickAnalyze" = "Quick Analyze";
+
+// Settings
+"settings.title" = "Settings";
+"settings.watchedFolder" = "Watched Folder";
+"settings.selectFolder" = "Select Folder";
+"settings.noFolderSelected" = "No folder selected";
+"settings.cloudEnabled" = "Enable Cloud Analysis";
+"settings.cloudDescription" = "Cloud analysis uses Claude AI for enhanced understanding. Your screenshots are sent to Anthropic's servers.";
+"settings.apiKey" = "API Key";
+"settings.general" = "General";
+"settings.cloud" = "Cloud";
+
+// Dashboard
+"dashboard.title" = "Dashboard";
+"dashboard.empty" = "No screenshots yet";
+"dashboard.emptyHint" = "Select a folder to watch in Settings";
+"dashboard.searchPlaceholder" = "Search screenshots...";
+"dashboard.screenshotCount" = "%d screenshots";
+
+// Digest
+"digest.subject" = "Your Weekly Screenshot Summary";
+"digest.summaryLine" = "You captured %d screenshots this week.";
+"digest.openApp" = "Open Supeedo";
+
+// Errors
+"error.permissionDenied" = "Permission Denied";
+"error.folderNotAccessible" = "Cannot access folder";
+"error.analysisFailed" = "Analysis failed";

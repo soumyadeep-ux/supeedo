@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- App Sandbox (required for Mac App Store) -->
+    <key>com.apple.security.app-sandbox</key>
+    <true/>
+
+    <!-- File Access: User-selected folders (via NSOpenPanel) -->
+    <key>com.apple.security.files.user-selected.read-write</key>
+    <true/>
+
+    <!-- Security-scoped bookmarks (persist folder access across launches) -->
+    <key>com.apple.security.files.bookmarks.app-scope</key>
+    <true/>
+
+    <!-- Network access (for cloud analysis) -->
+    <key>com.apple.security.network.client</key>
+    <true/>
+
+    <!-- Calendar access (for creating events) -->
+    <key>com.apple.security.personal-information.calendars</key>
+    <true/>
+
+    <!-- Reminders access (for creating reminders) -->
+    <key>com.apple.security.personal-information.reminders</key>
+    <true/>
+</dict>
+</plist>
